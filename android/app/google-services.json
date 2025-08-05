@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316481672845",
+    "project_id": "puzzle-1-0",
+    "storage_bucket": "puzzle-1-0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316481672845:android:9fe815b353c9854f84b4c4",
+        "android_client_info": {
+          "package_name": "com.example.puzzle_1_0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOjaTH_WBiRdma7obIKc5BkqEpA6BRoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
